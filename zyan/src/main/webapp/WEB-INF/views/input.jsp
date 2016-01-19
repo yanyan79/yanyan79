@@ -17,7 +17,7 @@
         <form action="information.do" method="post">
      <center>
         <h3 align="center">用户访问：</h3>
-	          请输入用户名:<input type="text" name="username" />
+	          请输入用户名:<input type="text" name="guestname" />
 	<p>
 	<p>
 	<input type="submit" value="提交" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
